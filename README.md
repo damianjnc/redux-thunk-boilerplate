@@ -8,3 +8,4 @@ from the command prompt clone the project
 * $npm start
 
 [Watch the Tutorial](https://youtu.be/Fq15pkckMqQ).
+# redux-thunk-boilerplate
